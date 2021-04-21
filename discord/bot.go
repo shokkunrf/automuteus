@@ -2,13 +2,13 @@ package discord
 
 import (
 	"context"
-	"github.com/automuteus/utils/pkg/game"
-	"github.com/automuteus/utils/pkg/rediskey"
-	"github.com/automuteus/utils/pkg/token"
 	"github.com/bwmarrin/discordgo"
 	"github.com/denverquane/amongusdiscord/amongus"
 	"github.com/denverquane/amongusdiscord/metrics"
 	"github.com/denverquane/amongusdiscord/storage"
+	"github.com/shokkunrf/automuteus-utils/pkg/game"
+	"github.com/shokkunrf/automuteus-utils/pkg/rediskey"
+	"github.com/shokkunrf/automuteus-utils/pkg/token"
 	"log"
 	"os"
 	"strconv"

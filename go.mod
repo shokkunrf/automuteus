@@ -7,7 +7,6 @@ go 1.15
 require (
 	github.com/BurntSushi/toml v0.3.1
 	github.com/automuteus/galactus v1.2.2
-	github.com/automuteus/utils v0.0.16
 	github.com/bsm/redislock v0.7.0
 	github.com/bwmarrin/discordgo v0.23.2
 	github.com/georgysavva/scany v0.2.7
@@ -18,6 +17,7 @@ require (
 	github.com/joho/godotenv v1.3.0
 	github.com/nicksnyder/go-i18n/v2 v2.1.2
 	github.com/prometheus/client_golang v1.10.0
+	github.com/shokkunrf/automuteus-utils v0.0.16-custom-3
 	golang.org/x/text v0.3.5
 	google.golang.org/protobuf v1.25.0 // indirect
 )

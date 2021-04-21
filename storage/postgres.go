@@ -3,9 +3,9 @@ package storage
 import (
 	"context"
 	"fmt"
-	"github.com/automuteus/utils/pkg/premium"
 	"github.com/georgysavva/scany/pgxscan"
 	"github.com/jackc/pgx/v4/pgxpool"
+	"github.com/shokkunrf/automuteus-utils/pkg/premium"
 	"io/ioutil"
 	"log"
 	"os"

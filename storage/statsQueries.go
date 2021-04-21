@@ -2,8 +2,8 @@ package storage
 
 import (
 	"context"
-	"github.com/automuteus/utils/pkg/game"
 	"github.com/georgysavva/scany/pgxscan"
+	"github.com/shokkunrf/automuteus-utils/pkg/game"
 	"log"
 	"strconv"
 )

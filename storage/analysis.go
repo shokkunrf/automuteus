@@ -5,9 +5,9 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/automuteus/galactus/broker"
-	"github.com/automuteus/utils/pkg/game"
 	"github.com/bwmarrin/discordgo"
 	"github.com/nicksnyder/go-i18n/v2/i18n"
+	"github.com/shokkunrf/automuteus-utils/pkg/game"
 	"log"
 	"time"
 )

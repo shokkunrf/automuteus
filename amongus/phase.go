@@ -1,8 +1,8 @@
 package amongus
 
 import (
-	"github.com/automuteus/utils/pkg/game"
 	"github.com/nicksnyder/go-i18n/v2/i18n"
+	"github.com/shokkunrf/automuteus-utils/pkg/game"
 )
 
 var PhaseMessages = map[game.Phase]*i18n.Message{

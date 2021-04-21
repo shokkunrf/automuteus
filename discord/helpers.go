@@ -4,7 +4,7 @@ import (
 	"crypto/sha256"
 	"encoding/hex"
 	"fmt"
-	"github.com/automuteus/utils/pkg/game"
+	"github.com/shokkunrf/automuteus-utils/pkg/game"
 	"log"
 	"math/rand"
 	"regexp"

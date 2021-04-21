@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"github.com/automuteus/utils/pkg/game"
+	"github.com/shokkunrf/automuteus-utils/pkg/game"
 	"os"
 	"sync"
 
